@@ -1,0 +1,11 @@
+shap==0.39.0
+numpy==1.18.5
+pandas==1.2.1
+scipy==1.4.1
+tqdm==4.56.0
+tensorflow==2.3.0
+tf-explain==0.3.0
+tensorflow-datasets==3.0.0
+matplotlib==3.3.4
+pytorch
+sklearn
